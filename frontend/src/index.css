@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer utilities {
+
+    .container {
+        padding-left: 10rem;
+        padding-right: 10rem;
+    }
+
+    /* @screen md {
+        .container {
+          padding-left: 10rem;
+          padding-right: 10rem;
+        }
+      } */
+
+  }
